@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/google-places-test/static/css/main.0a23647e.chunk.css",
-    "main.js": "/google-places-test/static/js/main.13cded5b.chunk.js",
-    "main.js.map": "/google-places-test/static/js/main.13cded5b.chunk.js.map",
+    "main.js": "/google-places-test/static/js/main.5776da99.chunk.js",
+    "main.js.map": "/google-places-test/static/js/main.5776da99.chunk.js.map",
     "runtime-main.js": "/google-places-test/static/js/runtime-main.a84ffd19.js",
     "runtime-main.js.map": "/google-places-test/static/js/runtime-main.a84ffd19.js.map",
     "static/js/2.13294ac8.chunk.js": "/google-places-test/static/js/2.13294ac8.chunk.js",
     "static/js/2.13294ac8.chunk.js.map": "/google-places-test/static/js/2.13294ac8.chunk.js.map",
     "index.html": "/google-places-test/index.html",
-    "precache-manifest.ece8ee8dfd1657d64f6f7b1870debd0d.js": "/google-places-test/precache-manifest.ece8ee8dfd1657d64f6f7b1870debd0d.js",
+    "precache-manifest.60f6b63643e747b509f5cab8f37a410e.js": "/google-places-test/precache-manifest.60f6b63643e747b509f5cab8f37a410e.js",
     "service-worker.js": "/google-places-test/service-worker.js",
     "static/css/main.0a23647e.chunk.css.map": "/google-places-test/static/css/main.0a23647e.chunk.css.map",
     "static/js/2.13294ac8.chunk.js.LICENSE.txt": "/google-places-test/static/js/2.13294ac8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a84ffd19.js",
     "static/js/2.13294ac8.chunk.js",
     "static/css/main.0a23647e.chunk.css",
-    "static/js/main.13cded5b.chunk.js"
+    "static/js/main.5776da99.chunk.js"
   ]
 }

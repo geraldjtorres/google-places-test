@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/google-places-test/static/css/main.7dd3870c.chunk.css",
-    "main.js": "/google-places-test/static/js/main.9c2c75ec.chunk.js",
-    "main.js.map": "/google-places-test/static/js/main.9c2c75ec.chunk.js.map",
+    "main.js": "/google-places-test/static/js/main.dea185ef.chunk.js",
+    "main.js.map": "/google-places-test/static/js/main.dea185ef.chunk.js.map",
     "runtime-main.js": "/google-places-test/static/js/runtime-main.a84ffd19.js",
     "runtime-main.js.map": "/google-places-test/static/js/runtime-main.a84ffd19.js.map",
-    "static/js/2.b10e9e31.chunk.js": "/google-places-test/static/js/2.b10e9e31.chunk.js",
-    "static/js/2.b10e9e31.chunk.js.map": "/google-places-test/static/js/2.b10e9e31.chunk.js.map",
+    "static/js/2.6075b779.chunk.js": "/google-places-test/static/js/2.6075b779.chunk.js",
+    "static/js/2.6075b779.chunk.js.map": "/google-places-test/static/js/2.6075b779.chunk.js.map",
     "index.html": "/google-places-test/index.html",
-    "precache-manifest.4dff851e4fa7805ac42bbef277d28f02.js": "/google-places-test/precache-manifest.4dff851e4fa7805ac42bbef277d28f02.js",
+    "precache-manifest.d0445a745ecd64df49d7c2af369dd02b.js": "/google-places-test/precache-manifest.d0445a745ecd64df49d7c2af369dd02b.js",
     "service-worker.js": "/google-places-test/service-worker.js",
     "static/css/main.7dd3870c.chunk.css.map": "/google-places-test/static/css/main.7dd3870c.chunk.css.map",
-    "static/js/2.b10e9e31.chunk.js.LICENSE.txt": "/google-places-test/static/js/2.b10e9e31.chunk.js.LICENSE.txt"
+    "static/js/2.6075b779.chunk.js.LICENSE.txt": "/google-places-test/static/js/2.6075b779.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a84ffd19.js",
-    "static/js/2.b10e9e31.chunk.js",
+    "static/js/2.6075b779.chunk.js",
     "static/css/main.7dd3870c.chunk.css",
-    "static/js/main.9c2c75ec.chunk.js"
+    "static/js/main.dea185ef.chunk.js"
   ]
 }

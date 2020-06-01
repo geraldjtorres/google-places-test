@@ -1,26 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Fragment } from 'react';
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  HashRouter,
+} from 'react-router-dom';
+import ResidenceAddressForm from './components/forms/ResidenceAddressForm';
+import HomeAddressForm from './components/forms/HomeAddressForm';
+import CompanyAddressForm from './components/forms/CompanyAddressForm';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HashRouter basename='/'>
+      <Fragment>
+        <Route exact path='/' component={ResidenceAddressForm} />
+        <Switch>
+          <Route exact path='/home-address-form' component={HomeAddressForm} />
+          <Route
+            exact
+            path='/company-address-form'
+            component={CompanyAddressForm}
+          />
+        </Switch>
+      </Fragment>
+    </HashRouter>
   );
-}
+};
 
 export default App;
